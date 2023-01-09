@@ -1,0 +1,18 @@
+- Learn Git
+- Write more docs
+- Review more code
+- Push back being on-call
+- Take less tasks that aren't visible
+- Deeply understand my internal tools
+- Write better pull request descriptions
+- Ask more questions about the system
+- Learn more about the APIs we're using
+- Learn about the databases we're using
+- Learn more about our metrics and alarms
+- Ask what I can do for my senior engineers
+- Learn more about our deployment pipeline
+- Schedule time to meet all of my teammates
+- Take more tasks that help me learn the system
+- Have more promotion conversations with my manager
+- Take more videos and screenshots of my code changes
+- Skip meetings where I didn't have anything to contribute
